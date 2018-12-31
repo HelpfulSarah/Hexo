@@ -1,11 +1,11 @@
 ---
 layout:
 author: Sarah Conrad
-title: My_First_Blog_Post
+title: My First Blog Post
 date: 2018-12-31 01:48:34
 tags:
 ---
-<h1>My First Blog Post</h1>
+<h1>There has to be a First Post</h1>
 <h2>So what's this page all about anyway?</h2>
 <p>Let me start by introducing myself! My name is Sarah, if you didn't guess that by now, and I like to be helpful! I decided to start a Blog because I really want to everyone in the same way that I'm always looking for help. Anyone who knows me knows that if I don't know the answer off the top of my head, I will immediately turn to Google for an answer. I have a love of learning and of sharing the knowledge that I have gained.
 <p>My main focuses in my life are obviously my children, but I won't be blogging about them so much, and food, cooking, preparing, growing, eating... basically anything to do with food! So my blog will be focused on food, but I'm not necessarily a foodie!
