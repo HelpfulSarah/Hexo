@@ -4,9 +4,9 @@
 
 # Site
 title: Helpful Sarah
-subtitle:
+subtitle: A blog by Sarah Conrad
 description:
-keywords:
+keywords: help, blog, how to, recipe, garden, cooking, food
 author: Sarah Conrad
 language: en
 timezone:
@@ -36,7 +36,7 @@ external_link: true # Open external links in new tab
 filename_case: 0
 render_drafts: false
 post_asset_folder: true
-relative_link: True
+relative_link: false
 future: true
 highlight:
   enable: true
