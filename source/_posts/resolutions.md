@@ -1,7 +1,7 @@
 ---
 title: Fastest Broken New Year's Resolution Ever!
 author: Sarah Conrad
-date: 2019-01-01 00:55:11
+date: 01-01-2019 00:55:11
 tags: New Year's Eve, Resolutions, Personal Story, Late
 ---
 <h3>Does anyone actually complete their New Year's resolutions anyway?</h3>
@@ -13,7 +13,5 @@ A few hours before midnight this New Year's eve, when we got into a conversation
 Fast forward to almost midnight. Here we are all sitting around watching the New York celebration on TV. I decide to go get the toddler into her jammies so she can get right to bed after the midnight celebration. As I'm trying to convince her to stop playing and get into her pajamas, I hear that classic New Year's music. And in that moment, I realized that it was midnight and I was late to the celebration! There seemed to be a lack of a countdown this year so none of us even realized that it was midnight right away. 
 
 So not only was I late for the new year, I took everyone else down with me! We still made sure to celebrate though, better late than never, right?!
-<p>
   <img src="resolutions01.png">
   <img src="resolutions02.png">
-</p>

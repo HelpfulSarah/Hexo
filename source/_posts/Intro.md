@@ -26,4 +26,6 @@ Learn how to do random things around the home.
 
 Follow along as we work on our home garden.
 
+### Personal Life
 
+These will be the random things that happen in my life that I think will be entertaining!
