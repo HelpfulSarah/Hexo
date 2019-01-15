@@ -1,8 +1,9 @@
 ---
-title: Fastest Broken New Year's Resolution Ever!
+title: How To Break a New Year's Resolution Instantly!
 author: Sarah Conrad
 date: 01-01-2019 00:55:11
-tags: New Year's Eve, Resolutions, Personal Story, Late
+tags: New Year's Eve, Resolutions, Personal Story, Late, How To
+featured_image: \Resolutions03sm.jpg
 ---
 
 ### Does anyone actually complete their New Year's resolutions anyway?

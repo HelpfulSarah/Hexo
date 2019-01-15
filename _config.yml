@@ -4,7 +4,7 @@
 
 # Site
 title: Helpful Sarah
-subtitle: A blog by Sarah Conrad
+subtitle: How to's, Recipes and Gardening
 description:
 keywords: help, blog, how to, recipe, garden, cooking, food
 author: Sarah Conrad
@@ -13,7 +13,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://helpfulsarah.com/
+url: https://helpfulsarah.com
 root: /
 permalink: :month/:day/:year/:title/
 permalink_defaults:
@@ -36,7 +36,7 @@ external_link: true # Open external links in new tab
 filename_case: 0
 render_drafts: false
 post_asset_folder: true
-relative_link: false
+relative_link: true
 future: true
 highlight:
   enable: true
@@ -54,7 +54,7 @@ index_generator:
   order_by: -date
   
 # Category & Tag
-default_category: uncategorized
+default_category: Helpful Posts
 category_map:
 tag_map:
 
@@ -73,7 +73,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: gradient
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
