@@ -5,7 +5,7 @@
 # Site
 title: Helpful Sarah
 subtitle: How to's, Recipes and Gardening
-description:
+description: A blog with helpful articles on a variety of topics including how to's, recipes, cooking techniques, food and gardening
 keywords: help, blog, how to, recipe, garden, cooking, food
 author: Sarah Conrad
 language: en
@@ -73,7 +73,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: gradient
+theme: landscape
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
