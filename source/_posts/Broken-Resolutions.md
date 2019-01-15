@@ -3,6 +3,7 @@ title: How To Break a New Year's Resolution Instantly!
 author: Sarah Conrad
 date: 01-01-2019 00:55:11
 tags: New Year's Eve, Resolutions, Personal Story, Late, How To
+categories: Personal Story
 featured_image: \Resolutions03sm.jpg
 ---
 
