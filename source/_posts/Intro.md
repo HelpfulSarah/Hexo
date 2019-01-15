@@ -1,31 +1,27 @@
 ---
-title: Helpful Sarah is Live!
+title: Helpful Sarah is here to help!
 Author: Sarah Conrad
+Date: 01/01/19
+Categories: How-To
 ---
-Welcome to my new site. Check back for more info soon. 
 
-## Post Categories to come...
+## Post Categories
 
 ### Recipes
 
+Sort recipe posts by tag.
 
-Once this site is up and running, you will be able to sort recipe posts by tag.
-
-
-More recipes: [Pampered Chef Recipes](https://www.pamperedchef.com/pws/sarahconrad/recipe-landing-page
+More [Recipes](https://www.pamperedchef.com/pws/sarahconrad/recipe-landing-page
 )
 
-### How To's
-
+### How-To
 
 Learn how to do random things around the home.
 
-
-
 ### Gardening
 
-Follow along as we work on our home garden.
+Follow along as we work on our home garden. Indoor early seeding to begin soon! 
 
-### Personal Life
+### Personal Story
 
-These will be the random things that happen in my life that I think will be entertaining!
+Random things that happen in my life that I think are entertaining!
