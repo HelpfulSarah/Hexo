@@ -16,3 +16,4 @@ Let me start by introducing myself! My name is Sarah and I like to be helpful! I
 
 Thank you!
 {% asset_img Avatar.jpg %}
+This site contains affiliate links to products. We may receive a commission for purchases made through these links.

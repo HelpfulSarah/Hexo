@@ -8,7 +8,7 @@ categories: Recipes
 
 Make a cake with 2 ingredients in just 10 minutes! 
 
-Mix and match flavors to find your favorite combination. This recipe can be used to make cupcakes, full size cakes, or any size cake pan that you have. 
+Mix and match flavors to find your favorite combination. This recipe can be used to make cupcakes, full-size cakes, or any size cake pan that you have. 
 
 [Cakes](https://amzn.to/2W9oqJD) can be made in the oven following the baking directions on the box as well as in the microwave. Depending on the size of your microwave, you may need to add more time.
 
@@ -18,6 +18,7 @@ Lava cakes are to be served right away while they are still warm to enjoy every 
 
 Using a [Pampered Chef Rockcrok pan](https://www.pamperedchef.com/pws/sarahconrad/shop/Cookware/Cookware/Rockcrok+Everyday+Pan/3139) is a great way to make cakes in the microwave! They clean up very easily and are really versatile!
 
-Rockcrok's are the power house in the kitchen that can be used anywhere! This can help streamline your cooking process. Start a meal in the microwave or on the stovetop, then finish off in the oven or under the broiler - all in the same pan!
+Rockcrok's are the powerhouse in the kitchen that can be used anywhere! This can help streamline your cooking process. Start a meal in the microwave or on the stovetop, then finish off in the oven or under the broiler - all in the same pan!
 
 {% asset_img MicrowaveCake.png %}
+This site contains affiliate links to products. We may receive a commission for purchases made through these links.

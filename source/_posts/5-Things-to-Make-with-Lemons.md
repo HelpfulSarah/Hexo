@@ -20,3 +20,4 @@ categories: Recipes
 
 ## [Lemon Tartlets](https://www.pamperedchef.com/pws/sarahconrad/recipe/Desserts/Lemon+Tartlets/10204)
 {% asset_img LemonTartlets.jpg %}
+This site contains affiliate links to products. We may receive a commission for purchases made through these links.

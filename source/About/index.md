@@ -24,3 +24,5 @@ Follow along as we work on our home garden. Indoor early seeding to begin soon!
 ### Personal Story
 
 Random things that happen in my life that I think are entertaining!
+
+This site contains affiliate links to products. We may receive a commission for purchases made through these links.
