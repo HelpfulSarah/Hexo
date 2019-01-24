@@ -2,8 +2,9 @@
 menu:
   Home: /
   Archives: /archives
-  Get More Information: https://goo.gl/forms/EaLuchYRJRDreFnJ3
-  Make a Purchase: https://www.pamperedchef.com/pws/sarahconrad/shop-landing-page
+  About: /About
+  Get More Information: /Information
+  Make a Purchase: /Purchase
 
 # Content
 excerpt_link: Read More
@@ -29,7 +30,7 @@ archive_type: 'monthly'
 show_count: false
 
 # Miscellaneous
-google_analytics:
+google_analytics: UA-133084188-1
 gauges_analytics:
 favicon: /favicon.png
 twitter:

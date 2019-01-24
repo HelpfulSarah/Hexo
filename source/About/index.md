@@ -1,8 +1,7 @@
 ---
-title: Helpful Sarah is here to help!
-Author: Sarah Conrad
-Date: 01/01/19
-Categories: How-To
+layout: About
+title: About
+date: 2019-01-23 14:17:43
 ---
 
 ## Post Categories
