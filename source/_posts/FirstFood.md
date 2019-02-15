@@ -26,4 +26,3 @@ Interested in making your own baby foods? There are lots of [blenders](https://a
 Your best bet is to follow baby's lead and have fun with it! Want to see it in action? Here's a video of my little one eating green beans for the first time! 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LV9CgyZ_liQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-This site contains affiliate links to products. We may receive a commission for purchases made through these links.

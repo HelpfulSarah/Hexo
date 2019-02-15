@@ -5,19 +5,27 @@ tags: Recipes, Dessert, Dinner, Drinks, Lemons, Chicken, Cake, Tartlet, Greek, A
 categories: Recipes
 ---
 # Check out these Lemon-y Delicious, Easy to Follow Recipes!
+<br>
+## [Strawberry Lemonade Quencher](https://www.pamperedchef.com/pws/sarahconrad/recipe/Beverages/Strawberry+Lemonade+Quencher/28963)
+### A tasty and refreshing beverage. Great for brunch!
 
-## [Strawberry Lemonade Quencher](https://www.pamperedchef.com/pws/sarahconrad/recipe/Beverages/Strawberry+Lemonade+Quencher/28963) A delicious, refreshing beverage. Great for brunch!
 {% asset_img StrawberryLemonadeQuencher.jpg %}
-
+<br>
 ## [Lemon Artichoke Pasta](https://www.pamperedchef.com/pws/sarahconrad/recipe/Main+Dishes/Heart+Healthy/Lemon+Artichoke+Pasta/838390)
+### A delicious one-pot meal! 
 {% asset_img LemonArtichokePasta.jpg %}
-
+<br>
 ## [Lemon Greek Chicken](https://www.pamperedchef.com/pws/sarahconrad/recipe/Main+Dishes/Large+Bar+Pan/Lemon+Greek+Chicken/49756)
-{% asset_img LemonGreekChicken.jpg %}
-
+### A yummy one-pan oven meal!
+{% asset_img LemonGreekChicken.jpg %}<br>
 ## [Lemon Angel Cake](https://www.pamperedchef.com/pws/sarahconrad/recipe/Desserts/Heavenly+Lemon+Angel+Cake/86893)
+### A mouth-watering, fluffy cake dessert!
 {% asset_img LemonAngelCake.jpg %}
-
+<br>
 ## [Lemon Tartlets](https://www.pamperedchef.com/pws/sarahconrad/recipe/Desserts/Lemon+Tartlets/10204)
+### A sweet citrus bite of deliciousness!
 {% asset_img LemonTartlets.jpg %}
+<br>
+<br>
+<br>
 This site contains affiliate links to products. We may receive a commission for purchases made through these links.
