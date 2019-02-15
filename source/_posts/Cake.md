@@ -4,6 +4,8 @@ date: 2019-01-23 03:36:44
 tags: Recipes, Cake, Icing, Lava Cake, Dessert
 categories: Recipes
 ---
+<a href="https://www.pinterest.com/pin/create/button/" data-pin-do="buttonBookmark">
+</a>
 {% asset_img LavaCake.jpg %}
 
 Make a cake with 2 ingredients in just 10 minutes! 
@@ -21,4 +23,3 @@ Using a [Pampered Chef Rockcrok pan](https://www.pamperedchef.com/pws/sarahconra
 Rockcrok's are the powerhouse in the kitchen that can be used anywhere! This can help streamline your cooking process. Start a meal in the microwave or on the stovetop, then finish off in the oven or under the broiler - all in the same pan!
 
 {% asset_img MicrowaveCake.png %}
-This site contains affiliate links to products. We may receive a commission for purchases made through these links.

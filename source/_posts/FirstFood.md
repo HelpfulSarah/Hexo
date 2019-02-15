@@ -4,6 +4,8 @@ date: 2019-01-23 22:22:08
 tags: How To, Baby, Baby Food, Video
 categories: How-To
 ---
+<a href="https://www.pinterest.com/pin/create/button/" data-pin-do="buttonBookmark">
+</a>
 {% asset_img Babyfirstfood.jpg %}
 
 Is your baby showing signs of being ready for solid food?

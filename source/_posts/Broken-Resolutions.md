@@ -5,7 +5,8 @@ date: 01-01-2019 00:55:11
 tags: New Year's Eve, Resolutions, Personal Story, Late, How To
 categories: How-To
 ---
-
+<a href="https://www.pinterest.com/pin/create/button/" data-pin-do="buttonBookmark">
+</a>
 ### Does anyone actually complete their New Year's resolutions anyway?
 
 {% asset_img HappyNewYear.jpg %}
@@ -19,4 +20,3 @@ Fast forward to almost midnight. Here we are all sitting around watching the New
 
 So not only was I late for the new year, I took everyone else down with me! We still made sure to celebrate though, better late than never, right?!
 {% asset_img Resolutions03sm.jpg %}
-This site contains affiliate links to products. We may receive a commission for purchases made through these links.
