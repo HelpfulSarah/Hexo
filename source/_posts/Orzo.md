@@ -10,7 +10,7 @@ categories: Recipes
 
 <strong>One pot meals are all the rage! If you love Shrimp, you will love this dish! Delicious - combined with orzo, which is basically pasta posing as rice! Haha!</strong>
 
-INGREDIENTS 
+## INGREDIENTS 
 
 8 oz. (250 g) large frozen, thawed shrimp, peeled and deveined (31-40 per pound) 
 1 tsp (5 mL) Lemon Pepper Rub 
@@ -27,7 +27,7 @@ INGREDIENTS
 ¼ cup (50 mL) fresh parsley leaves 
 
 
-DIRECTIONS 
+## DIRECTIONS 
 
 Season the shrimp with the rub. Heat the oil in the 10" (25-cm) [Stainless Steel Nonstick Skillet](https://www.pamperedchef.com/pws/sarahconrad/shop/Cookware/Cookware/10%22+Stainless+Steel+Nonstick+Skillet/2087) over medium-high heat for 3–5 minutes. Add the shrimp and sear for 2–3 minutes on each side, or until they’re lightly browned and pink. Remove the shrimp from the skillet. 
 
@@ -47,11 +47,11 @@ Use the [Herb Mill](https://www.pamperedchef.com/pws/sarahconrad/shop/Cooking+To
 
 {% asset_img HerbMill.jpg %}
 
-Yield: 
+### Yield: 
 4 servings 
 
-Nutrients per serving: 
+#### Nutrients per serving: 
 U.S. Nutrients per serving (about 1 cup/250 mL): Calories 360, Total Fat 10 g, Saturated Fat 3.5 g, Cholesterol 85 mg, Sodium 790 mg, Carbohydrate 50 g, Fiber 4 g, Sugars 5 g, Protein 19 g 
 
-Cook's Tips: 
+### Cook's Tips: 
 Toasting the orzo develops an unexpected nutty flavor and golden color. Searing the shrimp is such an easy and fast way to get great flavor, color and texture. These two techniques step up this simple weeknight meal.
